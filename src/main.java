@@ -20,6 +20,7 @@ public class main {
             }
             System.out.println("Total sum of dice's rolled is: " + total);
        }
+
         else {
             System.out.println("Number of dice should be greater than 0!!!");
         }
