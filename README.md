@@ -1,5 +1,3 @@
-I couldn’t directly fetch your exact repo contents, but based on your Java dice program and how similar projects are structured on GitHub, here’s a clean, professional README you can paste and use.
-
 ---
 
 # 🎲 Dice Rolling Simulator (Java)
